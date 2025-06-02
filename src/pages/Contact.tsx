@@ -58,7 +58,7 @@ const Contact = () => {
   };
 
   const openWhatsApp = () => {
-    const phoneNumber = '233592226262'; // Replace with actual store owner's phone number
+    const phoneNumber = '233204518963'; // Replace with actual store owner's phone number
     const message = encodeURIComponent('Hello! I saw your store and I would like to make an inquiry.');
     window.open(`https://wa.me/${phoneNumber}?text=${message}`, '_blank');
   };
