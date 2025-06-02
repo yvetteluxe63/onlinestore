@@ -43,7 +43,7 @@ const Contact = () => {
       form.append('_autoresponse', 'Thank you for contacting us! We will get back to you within 24 hours.');
 
       // 📧 REPLACE 'your@email.com' WITH YOUR ACTUAL ADMIN EMAIL ADDRESS
-      await fetch('https://formsubmit.co/ajax/nanaquaircu@gmail.com', {
+      await fetch('https://formsubmit.co/ajax/yvetteluxe63@gmail.com', {
         method: 'POST',
         body: form
       });
